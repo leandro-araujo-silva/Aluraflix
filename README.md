@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_imagens/aluraflix.gif" alt="Mentalista" height="425">
+  <img src="_imagens/aluraflix.gif" alt="Mentalista" height="325">
 </div>
 
 ---
